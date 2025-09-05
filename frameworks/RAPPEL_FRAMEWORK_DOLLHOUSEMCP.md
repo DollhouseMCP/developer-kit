@@ -2,6 +2,10 @@
 
 ## Overview
 
+**Document Version**: 1.0.0  
+**Last Updated**: September 5, 2025  
+**RAPPEL Framework**: Published by Trust Insights (2024)
+
 The RAPPEL Framework, created by Christopher S. Penn of Trust Insights, provides a structured approach for optimizing AI conversations. This guide shows how to implement RAPPEL using DollhouseMCP's persona and skill system.
 
 **RAPPEL** stands for:
@@ -13,6 +17,10 @@ The RAPPEL Framework, created by Christopher S. Penn of Trust Insights, provides
 - **L**earn - Iterate and improve based on results
 
 Original framework: https://trustinsights.ai/rappel
+
+## Related Documentation
+- [MCP Client Compatibility Matrix](../MCP_CLIENT_COMPATIBILITY_MATRIX.md) - Platform support for RAPPEL implementations
+- [Complete MCP Client Listing](../MCP_CLIENT_FULL_LISTING.md) - All 378+ compatible platforms
 
 ---
 

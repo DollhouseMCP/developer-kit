@@ -1,8 +1,14 @@
 # Complete MCP Client Directory for DollhouseMCP
 
+**Document Version**: 1.0.0  
+**Last Updated**: September 5, 2025  
 **Total Clients**: 378+ as of September 4, 2025  
 **Source**: [PulseMCP Directory](https://www.pulsemcp.com/clients)  
 **Purpose**: Document ALL MCP clients and their testing status with DollhouseMCP
+
+## Related Documentation
+- [MCP Client Compatibility Matrix](MCP_CLIENT_COMPATIBILITY_MATRIX.md) - Detailed testing status for priority platforms
+- [RAPPEL Framework Implementation](frameworks/RAPPEL_FRAMEWORK_DOLLHOUSEMCP.md) - Using DollhouseMCP with industry frameworks
 
 ---
 

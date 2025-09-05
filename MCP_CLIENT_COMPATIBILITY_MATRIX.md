@@ -1,9 +1,15 @@
 # DollhouseMCP - MCP Client Compatibility Matrix
 
-**Last Updated**: September 4, 2025  
+**Last Updated**: September 5, 2025  
+**Data Version**: 1.0.0  
 **Status**: Community Testing In Progress  
 **Purpose**: Track DollhouseMCP compatibility across major MCP clients  
-**Total MCP Clients Available**: 378+ ([Full Directory](https://www.pulsemcp.com/clients))
+**Total MCP Clients Available**: 378+ ([Full Directory](https://www.pulsemcp.com/clients))  
+**MCP Protocol Version**: 1.0.3 (as of September 2025)
+
+## Related Documentation
+- [RAPPEL Framework Comparison](frameworks/RAPPEL_FRAMEWORK_DOLLHOUSEMCP.md) - How DollhouseMCP aligns with industry frameworks
+- [Complete Client Listing](MCP_CLIENT_FULL_LISTING.md) - Full 378+ client enumeration and testing roadmap
 
 ---
 
